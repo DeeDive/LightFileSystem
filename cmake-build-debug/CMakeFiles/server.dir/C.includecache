@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cloudii/Documents/LightFileSystem/comm.c
+comm.h
+/home/cloudii/Documents/LightFileSystem/comm.h
+
+/home/cloudii/Documents/LightFileSystem/comm.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/ipc.h
+-
+sys/types.h
+-
+sys/msg.h
+-
+

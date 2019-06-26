@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/server.dir/server.cpp.o CMakeFiles/server.dir/comm.c.o CMakeFiles/server.dir/iNode.cpp.o CMakeFiles/server.dir/LightFileSystem.cpp.o CMakeFiles/server.dir/dir.cpp.o CMakeFiles/server.dir/SuperBlock.cpp.o  -o server 

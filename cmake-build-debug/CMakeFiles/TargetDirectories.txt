@@ -1,0 +1,8 @@
+/home/cloudii/Documents/LightFileSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cloudii/Documents/LightFileSystem/cmake-build-debug/CMakeFiles/LightFileSystem.dir
+/home/cloudii/Documents/LightFileSystem/cmake-build-debug/CMakeFiles/ser.dir
+/home/cloudii/Documents/LightFileSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cloudii/Documents/LightFileSystem/cmake-build-debug/CMakeFiles/cli.dir
+/home/cloudii/Documents/LightFileSystem/cmake-build-debug/CMakeFiles/server.dir
+/home/cloudii/Documents/LightFileSystem/cmake-build-debug/CMakeFiles/test.dir
+/home/cloudii/Documents/LightFileSystem/cmake-build-debug/CMakeFiles/client.dir

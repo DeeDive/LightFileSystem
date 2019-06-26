@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/cli.dir/client.c.o CMakeFiles/cli.dir/comm.c.o  -o cli 

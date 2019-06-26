@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ser.dir/server.c.o CMakeFiles/ser.dir/comm.c.o  -o ser 

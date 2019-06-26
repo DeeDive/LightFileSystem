@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LightFileSystem.dir/SuperBlock.cpp.o CMakeFiles/LightFileSystem.dir/iNode.cpp.o CMakeFiles/LightFileSystem.dir/LightFileSystem.cpp.o CMakeFiles/LightFileSystem.dir/dir.cpp.o  -o LightFileSystem 
